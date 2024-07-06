@@ -1,2 +1,2 @@
 # PDRD
-Gather publicly available datasets for plant disease recognition.
+**Gather publicly available datasets for plant disease recognition.**
